@@ -1,6 +1,3 @@
-# guard_your_string
-guard_your_string
-
 
 # guard_your_string
 **字符串保护工具 | String Protection Tool**
