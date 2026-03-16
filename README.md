@@ -22,7 +22,7 @@
 |-------------|-----------------------------------|--------------------------------------|
 | 适用对象    | VIP 用户                          | For: VIP Users                       |
 | 参数要求    | 2 个参数（待加密字符串 + 偏移量） | Params: 2 parameters (string + offset) |
-| 字符支持    | ❌ 不支持中文                      | Support: ❌ Chinese NOT supported     |
+| 字符支持    | ❌ offset不支持中文                      | Support: ❌ offset NOT supported Chinese     |
 | 核心特点    | 偏移量加密，安全性升级            | Feature: Offset-based encryption, enhanced security |
 
 ### 3. 03_guard_your_string_for_SVIP
